@@ -1,0 +1,34 @@
+{
+  "name": "carcloud-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for carcloud utilities.",
+  "main": "carcloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carcloud/carcloud-CLI.git"
+  },
+  "keywords": [
+    "carcloud",
+    "car",
+    "rental"
+  ],
+  "author": "CarCloud Pty Ltd",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "jsonfile": "^2.2.3",
+    "progress": "^1.1.8",
+    "rsvp": "^3.1.0",
+    "superagent": "^1.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/carcloud/carcloud-CLI/issues"
+  },
+  "homepage": "https://github.com/carcloud/carcloud-CLI#readme"
+}
